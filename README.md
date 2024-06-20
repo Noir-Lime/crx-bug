@@ -7,5 +7,5 @@ Steps to reproduce:
 3. Load Unpacked extension in chrome
 4. Navigate to `https://www.google.com`
 5. Open `src/App.module.scss`
-6. Many any change to the CSS and save.
+6. Make any change to the CSS and save.
 7. Observe how HMR does not work.
